@@ -293,7 +293,7 @@
 		win.focus();
 	});
 
-	$('.fa-linkedin-in').on('click', function (e) {
+	$('.fa-linkedin').on('click', function (e) {
 		var win = window.open('https://www.linkedin.com/in/arun-kumar-s-a-b46724154', '_blank');
 		win.focus();
 	});
@@ -302,6 +302,7 @@
 		var win = window.open('https://github.com/arunkumarsa7', '_blank');
 		win.focus();
 	});
+
 	$('.fa-instagram').on('click', function (e) {
 		var win = window.open('https://www.instagram.com/arunkumarsa7', '_blank');
 		win.focus();
